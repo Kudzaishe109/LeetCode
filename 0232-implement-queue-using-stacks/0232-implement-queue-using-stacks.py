@@ -17,18 +17,13 @@ class MyQueue:
 
 
     def peek(self) -> int:
-        if not self.outstack:
-            while self.instack:
-                self.outstack.append(self.instack[-1])
-                self.instack.pop()
-            return self.outstack[-1]
+        self.pop()
         return self.outstack[-1]
         
 
     def empty(self) -> bool:
-        if not self.instack and not self.outstack:
-            return True
-        return False
+        return not self.instack and not self.outstack
+      
         
 
 

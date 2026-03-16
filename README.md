@@ -71,4 +71,16 @@ The best feeling is when a problem that used to confuse you suddenly makes sense
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kudzaishe109/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Kudzaishe109/LeetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Kudzaishe109/LeetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Kudzaishe109/LeetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 <!---LeetCode Topics End-->

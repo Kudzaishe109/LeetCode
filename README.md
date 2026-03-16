@@ -60,3 +60,15 @@ The best feeling is when a problem that used to confuse you suddenly makes sense
 ✨ Final Thought
 
 “Every problem you solve makes you a little more unstoppable.”
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kudzaishe109/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kudzaishe109/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+<!---LeetCode Topics End-->
